@@ -1,5 +1,5 @@
 //Loops
-// Execute set of statement multiple times wit help of condition
+// Execute set of statement multiple times with the help of condition
 /*
 While loop
 we use while loop if we know the range of data and it will first check the condition and
