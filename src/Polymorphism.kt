@@ -7,6 +7,10 @@ Advantage
 Helps to write Maintainable and Extensible code
 helps in interacting with object via common interface
 
+Definition
+Poly means many and morph means form
+In computer science it is defined as - method name is same but it will behave differently based on the object.
+
  */
 
 
