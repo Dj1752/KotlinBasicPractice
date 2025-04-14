@@ -5,7 +5,7 @@ Interface are meant for behaviors.Classes which exhibits that behavior implement
 
 Interface can have both abstract and concrete methods
 Interface can implement other interface and one class can implement manny interface but classes can have only one superclass
- */
+
 
 
 fun main(){
@@ -46,5 +46,7 @@ class player(val name:String):Dargger{
    override fun drag()= println("$name is Dargging")
 }
 
+
+ */
 
 
